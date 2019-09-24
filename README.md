@@ -7,6 +7,7 @@ I'm just learning to code, although I've been doing Wordpress development for a 
 I run two other websites:
 
 [TheAlmoner.com](https://thealmoner.com): I'm a professional fundraiser in real life, and this blog shares my knowhow on raising money for good causes. 
+
 [Demoniac.net](https://demoniac.net): My hobby is spiritual warfare and deliverance prayer. This newish blog shares my experiences. 
 
 
