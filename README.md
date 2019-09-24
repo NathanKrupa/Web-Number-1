@@ -1,4 +1,14 @@
-## Welcome to GitHub Pages
+# Nathan Krupa's Experimental Githup Web Page 
+
+## Websites are fun, especially when you discover new ways to do web publising.
+
+I'm just learning to code, although I've been doing Wordpress development for a couple of years now. I have reached the limit of what I can do with plugins and themes, and want to learn more about the guts of how to code websites for real. 
+
+I run two other websites:
+
+[TheAlmoner.com](https://thealmoner.com): I'm a professional fundraiser in real life, and this blog shares my knowhow on raising money for good causes. 
+[Demoniac.net](https://demoniac.net): My hobby is spiritual warfare and deliverance prayer. This newish blog shares my experiences. 
+
 
 You can use the [editor on GitHub](https://github.com/NathanKrupa/Web-Number-1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
